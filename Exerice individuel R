@@ -1,0 +1,87 @@
+---
+title: "ExerciceRstatdes"
+author: "Alioune Abdou Salam Kane"
+date: "2024-03-06"
+output: pdf_document
+---
+
+{r setup-changeable, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+
+
+## Summary
+
+Faisons un summary de la base de données
+
+```{r echo = FALSE}
+# Génération de la base de donn&es
+set.seed(123)
+
+df <- data.frame(id = 1:300)
+
+#Ajout de 15 variables avec 300 observations
+for (i in 1:15) {
+  df[, paste0("var", i)] <- rnorm(n = 300) 
+}
+#Ajout de variables categorielles
+df$Prenom <- sample(c("Ahmadou", "PAN", "AWA", "Khadidiatou", "Eva", "Jeanne", "Hilda", "Sarah", "Celina", "Salam","Samba","Ameth","Mame Balla"), 300, replace = TRUE)
+df$Nom <- sample(c("Niass", "Johnson", "Williams", "Jones", "Brown", "Davis", "Miller", "Wilson", "Moore", "Taylor"), 300, replace = TRUE)
+df$var15 <- sample(c("ISEP1","ISEP2","ISEP3", "ISE1 maTHS","ISE1ECO", "ISE2","ISE3"), 300, replace = TRUE)
+df$var14  <- sample(c("Homme","Femme"), 300, replace = TRUE)
+df$var13  <- sample(c("Célibataire","Marié","En discussion"), 300, replace = TRUE)
+df$var12 <- sample(0:5, 300, replace = TRUE)
+```
+
+
+
+```{r}
+summary(df)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
