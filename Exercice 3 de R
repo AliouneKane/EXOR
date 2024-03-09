@@ -1,0 +1,35 @@
+---
+title: "Exposé R 2024:Thème : Traitements des séries chronologiques et données spatiales"
+author: " Réalisé par Alioune Abdou Salam Kane et Edima Biyenda Hildegarde, élèves en ISEP2"
+date: "2024-03-08"
+output: pdf_document
+---
+
+
+
+
+
+# \textcolor {red}{Sommaire}
+# Introduction 
+
+# I-	Les Séries Chronologiques avec R
+## A. Importance et Manipulation des séries chronologiques avec R 
+## B. Visualisation des séries chronologiques 
+## C.	Modèles de Prévision des Séries Chronologiques 
+### 1. ARIMA
+### 2. Modèle exponentiel lissé 
+
+# II- La Géomatique avec R 
+## A.	Présentation des données spatiales
+## B.	Lire et écrire des données spatiales 
+## C. Manipulation des données spatiales 
+## 3. Créer des cartes sous R 
+
+
+# III.	Applications pratiques 
+## A. Traitement d'une série de données de température mensuelle au Sénégal avec R 
+### Saisie/importation de la série 
+### régression linéaire 
+### Lissages
+
+#	Conclusion
