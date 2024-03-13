@@ -1,0 +1,46 @@
+---
+title: "A letter of motivation for Steven Bartlett"
+author: "Alioune Abdou Salam Kane"
+output:
+  pagedown::html_letter:
+    self_contained: false
+links-to-footnotes: true
+paged-footnotes: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+
+::: from
+Alioune Abdou Salam Kane
+Dakar, in the neighborhood of Ouagou Niayes
+Senega, NE 68022  
+Email: kalioune879@gmail.com
+:::
+
+
+Hiring Manager  
+The Diary of A CEO, Hacker's University  
+Willstreet Highway,26400    
+
+::: date
+Mars 13, 2024
+:::
+
+Subject: Elevating Netflix's Brand Experience
+
+Dear Hiring Committee,
+
+I am thrilled to apply for the Chief Marketing Officer position at Netflix, a company renowned for its groundbreaking approach to storytelling.
+
+With a proven track record in crafting compelling narratives and driving growth through innovative marketing strategies, I am excited about the opportunity to contribute to Netflix's continued success.
+
+I am deeply inspired by Netflix's commitment to creativity and excellence, and I am eager to leverage my expertise to further elevate the Netflix brand experience.
+
+Thank you for considering my application. I am eager to discuss how I can help Netflix reach new heights.
+
+Best regards,
+
+
+Alioune Abdou Salam Kane,
+CEO of Akimma Digital
